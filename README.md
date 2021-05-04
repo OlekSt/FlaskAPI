@@ -12,4 +12,4 @@
 - Stacks and Queues
 
 
-Following the tutorial: https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/
+Following the [Freecodecamp tutorial](https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/).
